@@ -19,8 +19,6 @@ I am passionate in technology and keeping up myself with the new trends in softw
 * NUnit
 * Team City/Azure
 
-### Work Experience
-
 ### Contact me
 
 [cyborgkagaw@gmail.com](mailto:cyborgkagaw@gmail.com) Please don't SPAM. :-)
