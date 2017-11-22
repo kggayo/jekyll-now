@@ -17,6 +17,7 @@ I am passionate in technology and keeping up myself with the new trends in softw
 * Onion architecture
 * Github/Team Services/TFS
 * NUnit
+* Team City/Azure
 
 ### Work Experience
 
