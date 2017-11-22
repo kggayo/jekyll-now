@@ -15,7 +15,8 @@ I am passionate in technology and keeping up myself with the new trends in softw
 * HTML/CSS/Bootstrap/JQuery
 * SimpleInjector IoC, Dependency Injection
 * Onion architecture
-* Github
+* Github/Team Services/TFS
+* NUnit
 
 ### Work Experience
 
